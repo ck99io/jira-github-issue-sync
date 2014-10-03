@@ -1,2 +1,5 @@
 node_modules
 syncer.json
+.idea/
+.idea/*
+*.xml

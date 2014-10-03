@@ -38,4 +38,12 @@ ozp-rest-jmeter
 bootstrap-sass
 
 
-- Another thing to look at is our user mapping. Currently when you assign an issue in JIRA it will look for the right user to assign it to based on user mapping in the project.json file. We have to make sure everyone on the team a) has a github user name and b) that each subtask is assigned before we add them (or we can set up a default assignee in github or something). 
+- Another thing to look at is our user mapping. Currently when you assign an issue in JIRA it will look for the right user to assign it to based on user mapping in the project.json file. We have to make sure everyone on the team a) has a github user name and b) that each subtask is assigned before we add them (or we can set up a default assignee in github or something).
+
+
+### Developer To Dos:
+
+- Fix broken transition functionality (close a Jira issue when a github issue is closed)
+- - Nice to have: include commit notes in a comment with close?
+- Add repo list to project.json and functionality to gather ALL github tickets from ALL repos at the beginning (to avoid recreating the same issues in github over and over)
+- Add sync await to avoid nested things, forcing synchronous behavior in an async application

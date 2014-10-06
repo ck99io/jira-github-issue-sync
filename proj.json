@@ -1,0 +1,32 @@
+{
+    "jira": {
+        "protocol": "https",
+        "host": "www.owfgoss.org/jira",
+        "port": "",
+        "user": "admsschneider",
+        "password": "663233Ab!",
+        "defaultApi": {
+            "version": "2"
+        },
+        "greenhopper": {
+            "version": "1.0"
+        },
+        "project": "Sandbox"
+    },
+    "github": {
+        "user": "stephanieerin",
+        "auth": {
+            "type": "basic",
+            "username": "stephanieerin",
+            "password": "663233ab"
+        },
+        "repos": [
+            "jira-github"
+        ]
+    },
+    "userMapping": {
+        "sschneider": "stephanieerin",
+        "admsschneider": "stephanieerin",
+        "undefined": "stephanieerin"
+    }
+}

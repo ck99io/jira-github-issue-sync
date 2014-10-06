@@ -19,7 +19,8 @@
     "async": "0.2.6",
     "github": "0.2.x",
     "jira": "0.10.x",
-    "sync-jira-github": "0.1.1"
+    "sync-jira-github": "0.1.1",
+    "asyncawait": "0.7"
   },
 
   "engines": {

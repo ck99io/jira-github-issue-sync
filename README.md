@@ -54,3 +54,10 @@ GitHub Account:
 * email: stephanie.schneider@nextcentury.com
     * *You only need the email address to reset the password on this account*
 
+Jira Account:
+
+* username: ozp-jira-github
+* password: Pa22word
+* email: stephanie.schneider@nextcentury.com
+    * *You only need the email address to reset the password on this account*
+

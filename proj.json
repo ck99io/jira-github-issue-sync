@@ -3,8 +3,8 @@
         "protocol": "https",
         "host": "www.owfgoss.org/jira",
         "port": "",
-        "user": "admsschneider",
-        "password": "663233Ab!",
+        "user": "ozp-jira-github",
+        "password": "Pa22word",
         "defaultApi": {
             "version": "2"
         },
@@ -14,13 +14,13 @@
         "project": "Sandbox"
     },
     "github": {
-        "user": "stephanieerin",
+        "user": "ozp-jira-github",
         "repos":
-            ["jira-github", "internship"],
+            ["jira-github"],
         "auth": {
             "type": "basic",
-            "username": "stephanieerin",
-            "password": "663233ab"
+            "username": "ozp-jira-github",
+            "password": "Pa22word"
         }
     },
     "userMapping": {

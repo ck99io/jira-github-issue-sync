@@ -14,13 +14,13 @@
         "project": "Sandbox"
     },
     "github": {
-        "user": "ozp-jira-github",
+        "user": "stephanieerin",
         "repos":
             ["jira-github"],
         "auth": {
             "type": "basic",
             "username": "ozp-jira-github",
-            "password": "Pa22word"
+            "password": "Pa22word!"
         }
     },
     "userMapping": {

@@ -16,7 +16,7 @@
     "github": {
         "user": "stephanieerin",
         "repos":
-            ["jira-github"],
+            ["jira-github", "internship"],
         "auth": {
             "type": "basic",
             "username": "stephanieerin",

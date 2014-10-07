@@ -43,7 +43,18 @@ bootstrap-sass
 
 ### Developer To Dos:
 
-- --Fix broken transition functionality (close a Jira issue when a github issue is closed)--
-- - Nice to have: include commit notes in a comment with close?
-- Add repo list to project.json and functionality to gather ALL github tickets from ALL repos at the beginning (to avoid recreating the same issues in github over and over)
+- ~~Fix broken transition functionality (close a Jira issue when a github issue is closed)~~
+    - Nice to have: include commit notes in a comment with close?
+- ~~Add repo list to project.json and functionality to gather ALL github tickets from ALL repos at the beginning (to avoid recreating the same issues in github over and over)~~
 - Add sync await to avoid nested things, forcing synchronous behavior in an async application
+- Update assignee in GitHub if Jira assignee changes
+
+### Authentication
+
+GitHub Account:
+
+* username: ozp-jira-github
+* password: Pa22word
+* email: stephanie.schneider@nextcentury.com
+    * *You only need the email address to reset the password on this account*
+

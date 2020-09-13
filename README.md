@@ -30,20 +30,6 @@ You have an example at [project-example.json](https://github.com/weareswat/jira-
 
 - Would we rather: have a static list of possible repos and check/create milestones according to the current active sprint OR manually add sprints to each repo when you create a new sprint. Considering there are only a handful of repos (this could be put in the project.json file) that we work with, adding each repo will probably come up a lot less than every sprint.
 
-Current Repos:
-<<<<<<< HEAD
-ozp-rest, center-ui, hud, ozp-rest-jmeter, ozp-documentation
-=======
-ozp-rest
-center-ui
-hud
-ozp-rest-jmeter
-ozp-docs
->>>>>>> working
-
-
-- Another thing to look at is our user mapping. Currently when you assign an issue in JIRA it will look for the right user to assign it to based on user mapping in the project.json file. We have to make sure everyone on the team a) has a github user name and b) that each subtask is assigned before we add them (or we can set up a default assignee in github or something).
-
 
 ### Developer To Dos:
 - Add sync await to avoid nested things, forcing synchronous behavior in an async application
